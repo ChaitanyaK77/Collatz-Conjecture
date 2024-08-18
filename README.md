@@ -1,7 +1,8 @@
 # Collatz Conjecture: A Mathematical Enigma
 
 The Collatz Conjecture, also known as the "3n + 1 problem," is a simple yet deeply puzzling problem in mathematics. Despite its straightforward definition, the conjecture has eluded proof for over 80 years, and it remains one of the most intriguing unsolved problems in mathematics.
-![Alt Text](URL_to_image)
+##
+![Collatz-Conjecture](coll.jpg)
 
 ## Mathematical Definition
 
