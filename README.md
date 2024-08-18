@@ -43,9 +43,9 @@ The Collatz sequence can be visualized graphically, where each step in the seque
 
 Mathematicians have explored the Collatz Conjecture in various ways, including:
 
-- **Computational Verification**: The conjecture has been tested for large values of \( n \) (up to \( 2^{68} \) as of recent efforts) using computers, and no counterexamples have been found. Despite this, no general proof exists.
+- **Computational Verification**: The conjecture has been tested for large values of \( n \) (up to \( 2^68 \) as of recent efforts) using computers, and no counterexamples have been found. Despite this, no general proof exists.
   
-- **Cycle Analysis**: The only cycle known for the sequence is the trivial cycle involving the numbers \( 1 \rightarrow 4 \rightarrow 2 \rightarrow 1 \). If any other cycle exists, it would disprove the conjecture.
+- **Cycle Analysis**: The only cycle known for the sequence is the trivial cycle involving the numbers \( 1 &rarr; 4 &rarr; 2 &rarr; 1 \). If any other cycle exists, it would disprove the conjecture.
   
 - **Stopping Time**: The stopping time or total stopping time for a number \( n \) is the number of steps required for the sequence to reach 1. Researchers have studied patterns in stopping times to understand the behavior of the sequence.
 
